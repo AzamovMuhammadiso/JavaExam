@@ -1,0 +1,27 @@
+[
+  {
+    "firstName": "Jahongir",
+    "lastName": "Akramov",
+    "age": 16
+  },
+  {
+    "firstName": "Muhammadiso",
+    "lastName": "Azamov",
+    "age": 20
+  },
+  {
+    "firstName": "Soibjon",
+    "lastName": "pardayev",
+    "age": 22
+  },
+  {
+    "firstName": "Abdurahmon",
+    "lastName": "Maxametov",
+    "age": 19
+  },
+  {
+    "firstName": "Rustam",
+    "lastName": "Bekniyozov",
+    "age": 18
+  }
+]
